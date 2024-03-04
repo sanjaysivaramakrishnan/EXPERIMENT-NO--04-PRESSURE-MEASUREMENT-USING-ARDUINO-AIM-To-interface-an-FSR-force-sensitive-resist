@@ -110,7 +110,7 @@ digitalWrite(LED,LOW);
 
 ~~~
 
-![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
+![WhatsApp Image 2024-03-04 at 14 52 32_255ae63b](https://github.com/sanjaysivaramakrishnan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/151629616/394083fc-443e-4f7c-981d-15a9389591fd)
 
 
 ### TABLE -02 standard deviation table 
