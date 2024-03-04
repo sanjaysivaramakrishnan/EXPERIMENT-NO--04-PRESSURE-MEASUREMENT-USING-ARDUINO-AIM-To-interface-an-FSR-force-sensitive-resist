@@ -81,7 +81,7 @@ The easiest way to measure a resistive sensor is to connect one end to power and
  *your roll no :212223240151
  * your name : Sanjay sivaramakrishnan M
  * department and year : AIML and first year
-
+ ~~~  
 int fsr;
 int LED= 7;
 void setup()
@@ -107,20 +107,8 @@ delay(500);
 digitalWrite(LED,LOW);
 }
 } 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+~~~
 
 ![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
 
